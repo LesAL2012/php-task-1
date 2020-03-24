@@ -4,7 +4,7 @@
         <div class='row text-center' >
             <div class='col-lg-2 col-md-4 col-sm-4 col-4' >
                 <a href='https://resume.ts.biz.ua/' target='_blank' class='text-white' rel="noopener noreferrer">
-                    <?date('Y')?> &copy; O.LES
+                    <?echo date('Y')?> &copy; O.LES
                 </a>
             </div>
             <div class='col-lg-2 col-md-4 col-sm-4 col-4'>

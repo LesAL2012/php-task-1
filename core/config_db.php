@@ -1,7 +1,7 @@
 <?
-define('SERVERNAME', 'localhost');
-define('USERNAME', 'root');
-define('PASSWORD', '');
-define('DBNAME', 'XXXX-YOUR-DB');
+define('SERVERNAME', 'XXXXXXXXX');
+define('USERNAME', 'XXXXXXXXX');
+define('PASSWORD', 'XXXXXXXXX');
+define('DBNAME', 'XXXXXXXXX');
 define('TASK_ON_PAGE', 3);
 ?>
